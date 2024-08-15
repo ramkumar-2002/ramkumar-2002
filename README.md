@@ -19,8 +19,8 @@
 <p align="left">
 </p>
 
-<h3 align="left">Cloud Platforms:</h3>
-<p align="left">
+<h3>Cloud Platforms:</h3>
+<p>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 20px;"/>
   </a>
@@ -29,8 +29,8 @@
   </a>
 </p>
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
+<h3>Programming Languages:</h3>
+<p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 20px;"/>
   </a>
@@ -45,8 +45,8 @@
   </a>
 </p>
 
-<h3 align="left">Web Development:</h3>
-<p align="left">
+<h3>Web Development:</h3>
+<p>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 20px;"/>
   </a>
@@ -58,8 +58,8 @@
   </a>
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
+<h3>Tools:</h3>
+<p>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 20px;"/>
   </a>
@@ -74,8 +74,8 @@
   </a>
 </p>
 
-<h3 align="left">Databases:</h3>
-<p align="left">
+<h3>Databases:</h3>
+<p>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 20px;"/>
   </a>
@@ -84,8 +84,8 @@
   </a>
 </p>
 
-<h3 align="left">Machine Learning:</h3>
-<p align="left">
+<h3>Machine Learning:</h3>
+<p>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="margin-right: 20px;"/>
   </a>
@@ -96,4 +96,5 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-right: 20px;"/>
   </a>
 </p>
+
 
